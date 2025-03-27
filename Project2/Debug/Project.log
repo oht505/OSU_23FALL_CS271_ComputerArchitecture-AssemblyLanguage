@@ -1,0 +1,17 @@
+﻿  Assembling Project2.asm...
+Project2.asm(17): error A2013: .MODEL must precede this directive
+Project2.asm(19): error A2034: must be in segment block
+Project2.asm(20): error A2034: must be in segment block
+Project2.asm(21): error A2034: must be in segment block
+Project2.asm(22): error A2034: must be in segment block
+Project2.asm(24): error A2013: .MODEL must precede this directive
+Project2.asm(25): error A2034: must be in segment block : main
+Project2.asm(27): error A2034: must be in segment block
+Project2.asm(28): error A2034: must be in segment block
+Project2.asm(29): error A2034: must be in segment block
+Project2.asm(31): error A2034: must be in segment block
+Project2.asm(32): error A2034: must be in segment block
+Project2.asm(33): error A2034: must be in segment block
+Project2.asm(35): error A2006: undefined symbol : ExitProcess
+Project2.asm(36): fatal error A1010: unmatched block nesting : main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: "ml.exe /c /nologo /Sg /Zi /Fo"Debug\Project2.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaProject2.asm" 명령이 종료되었습니다(코드: 1).
