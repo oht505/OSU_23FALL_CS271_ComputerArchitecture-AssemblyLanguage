@@ -1,1 +1,3 @@
-# OSU_23FALL_CS271_ComputerArchitecture-AssemblyLanguage
+# CS271 Computer Architecture & Assembly Language
+
+* This repository is for assignments
